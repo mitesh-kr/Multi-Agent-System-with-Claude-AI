@@ -1,0 +1,2 @@
+anthropic>=0.39.0
+nest-asyncio>=1.6.0
