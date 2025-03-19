@@ -7,6 +7,8 @@ This project implements a multi-agent system using Anthropic's Claude API. The s
 3. **Implementer**: Creates solutions and implements code
 4. **Critic**: Reviews and provides feedback on solutions
 
+## [Google colab link](https://colab.research.google.com/drive/1sKPboDbGEUAL7kJyqVIpRx324o-y0HEn?usp=sharing)
+
 ## Requirements
 
 - Python 3.7+
