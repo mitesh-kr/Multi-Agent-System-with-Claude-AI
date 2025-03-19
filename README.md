@@ -16,7 +16,7 @@ This project implements a multi-agent system using Anthropic's Claude API. The s
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/multi-agent-system.git
+git clone https://github.com/mitesh-kr/multi-agent-system.git
 cd multi-agent-system
 ```
 
